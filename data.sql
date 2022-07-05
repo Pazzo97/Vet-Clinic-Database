@@ -4,3 +4,10 @@ INSERT INTO animals (id, name, date_of_birth, escape_attempts, neutered, weight_
 INSERT INTO animals (id, name, date_of_birth, escape_attempts, neutered, weight_kgs) VALUES (2, 'Gabumon', '2018-11-15', 2, 'true', 8);
 INSERT INTO animals (id, name, date_of_birth, escape_attempts, neutered, weight_kgs) VALUES (3, 'Pikachu', '2021-01-07', 1, 'false', 15.04);
 INSERT INTO animals (id, name, date_of_birth, escape_attempts, neutered, weight_kgs) VALUES (4, 'Devimon', '2017-05-12', 5, 'true', 11);
+INSERT INTO animals (id, name, date_of_birth, escape_attempts, neutered, weight_kgs) VALUES (5, 'Charmander', '2020-02-08', 0, 'false', -11);
+INSERT INTO animals (id, name, date_of_birth, escape_attempts, neutered, weight_kgs) VALUES (6, 'Plantmon', '2021-11-15', 2, 'true', -5.7);
+INSERT INTO animals (id, name, date_of_birth, escape_attempts, neutered, weight_kgs) VALUES (7, 'Squirtle', '1993-04-02', 3, 'false', -12.13);
+INSERT INTO animals (id, name, date_of_birth, escape_attempts, neutered, weight_kgs) VALUES (8, 'Angemon', '2005-06-12', 1, 'true', -45);
+INSERT INTO animals (id, name, date_of_birth, escape_attempts, neutered, weight_kgs) VALUES (9, 'Boarmon', '2005-06-07', 7, 'true', 20.04);
+INSERT INTO animals (id, name, date_of_birth, escape_attempts, neutered, weight_kgs) VALUES (10, 'Blossomon', '1998-11-13', 3, 'true', 17);
+INSERT INTO animals (id, name, date_of_birth, escape_attempts, neutered, weight_kgs) VALUES (11, 'Ditto', '2022-05-14', 4, 'true', 22);
